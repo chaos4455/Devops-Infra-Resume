@@ -28,7 +28,7 @@ Minha abordagem integra as melhores práticas de gestão de infraestrutura, util
 
 Como um profissional de infraestrutura de TI e DevOps, tenho me aprofundado em diversas tecnologias ao longo dos anos. Aqui estão alguns projetos significativos que exemplificam meu conhecimento e habilidades avançadas em Docker, PowerShell, automação e Linux.
 
-## 🚀 **Projetos Relevantes**
+## 🚀 **Evolução dos estudos e aprendizados ao longo do tempo**
 
 ### 1. [Conhecimento](https://github.com/chaos4455/Conhecimento) (2018-2020)
 Este repositório contém uma coleção de scripts e tutoriais que desenvolvi para consolidar meu conhecimento em várias áreas de TI, incluindo administração de sistemas Linux e práticas de automação. O foco foi em aplicar soluções práticas a problemas comuns de infraestrutura.
