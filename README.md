@@ -24,6 +24,29 @@ Com mais de **14 anos de experiência** em infraestrutura de TI, minha trajetór
 
 Minha abordagem integra as melhores práticas de gestão de infraestrutura, utilizando ferramentas como **Terraform**, **Ansible**, **GitHub Actions**, **Jenkins**, e **Docker Swarm**. Estou implementando soluções de **automação** e integrando modelos de **inteligência artificial** para otimizar operações e aumentar a eficiência das entregas.
 
+# 📚 **Demonstração de Conhecimento Avançado em TI**
+
+Como um profissional de infraestrutura de TI e DevOps, tenho me aprofundado em diversas tecnologias ao longo dos anos. Aqui estão alguns projetos significativos que exemplificam meu conhecimento e habilidades avançadas em Docker, PowerShell, automação e Linux.
+
+## 🚀 **Projetos Relevantes**
+
+### 1. [Conhecimento](https://github.com/chaos4455/Conhecimento) (2018-2020)
+Este repositório contém uma coleção de scripts e tutoriais que desenvolvi para consolidar meu conhecimento em várias áreas de TI, incluindo administração de sistemas Linux e práticas de automação. O foco foi em aplicar soluções práticas a problemas comuns de infraestrutura.
+
+### 2. [Estudos 2022](https://github.com/chaos4455/Estudos-2022)
+Em 2022, ampliei meu foco em tecnologias de automação e DevOps. Este repositório documenta meus estudos sobre práticas modernas e ferramentas, incluindo **Docker** e orquestração de containers, além de automação de processos utilizando **PowerShell**. A experiência adquirida foi fundamental para a aplicação de práticas DevOps em projetos reais.
+
+### 3. [DockerCommandlets](https://github.com/chaos4455/DockerCommandlets)
+Criado para demonstrar o uso avançado de **Docker** em ambientes Windows com **PowerShell**, este repositório inclui uma coleção de cmdlets que facilitam a automação de tarefas relacionadas a containers. O projeto reflete meu compromisso em integrar práticas de automação com gestão de containers.
+
+### 4. [DevOps-PowerShell](https://github.com/chaos4455/Devops-Powershell)
+Este repositório foi desenvolvido para explorar como o **PowerShell** pode ser usado para implementar e gerenciar práticas de **DevOps**. Contém scripts que automatizam tarefas comuns de CI/CD e gerenciam configurações em ambientes de nuvem, demonstrando um conhecimento profundo em infraestrutura como código e automação.
+
+---
+
+Esses projetos não apenas refletem minha habilidade técnica, mas também minha paixão por soluções inovadoras e eficientes em infraestrutura e automação. Estou sempre buscando maneiras de melhorar e otimizar ambientes de TI, integrando novas tecnologias e práticas recomendadas.
+
+
 ---
 
 ## 💼 **Experiência Profissional**
@@ -68,13 +91,6 @@ Minha abordagem integra as melhores práticas de gestão de infraestrutura, util
 - **GitLab CI/CD**: Especialização em integração e entrega contínua, com foco na otimização de pipelines.
 - **Docker**: Certificação em containerização avançada de aplicações e orquestração com **Docker Swarm**.
 - **Kubernetes**: Certificação em orquestração de containers, incluindo práticas com **MicroK8s** e integração com **CI/CD**.
-
----
-
-## 🌐 **Projetos em Destaque**
-- **[Análise Preditiva de Estoque](https://github.com/chaos4455/predictive-stock-analysis)**: Projeto que utiliza **machine learning** para previsão de estoques e otimização de inventários.
-- **[Chatbots e IA Generativa](https://github.com/chaos4455/generative-ai-chatbot)**: Desenvolvimento de soluções de atendimento automatizado baseadas em **LLMs** e **API GPT**.
-- **[Integração de Pagamentos - Mercado Pago](https://github.com/chaos4455/mercado-pago-integration)**: Automação de pagamentos e geração de relatórios de transações.
 
 ---
 
