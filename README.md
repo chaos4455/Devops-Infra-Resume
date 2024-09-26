@@ -44,7 +44,7 @@ Este repositório foi desenvolvido para explorar como o **PowerShell** pode ser 
 
 ---
 
-Esses projetos não apenas refletem minha habilidade técnica, mas também minha paixão por soluções inovadoras e eficientes em infraestrutura e automação. Estou sempre buscando maneiras de melhorar e otimizar ambientes de TI, integrando novas tecnologias e práticas recomendadas.
+Esses projetos não apenas refletem minha habilidade técnica, mas também minha paixão por soluções inovadoras e eficientes em infraestrutura e automação. Estou sempre buscando maneiras de melhorar e otimizar ambientes de TI, integrando novas tecnologias e práticas recomendadas, servindo de exemplo do meu esforço e dedicação na área e aprendizado constante.
 
 
 ---
