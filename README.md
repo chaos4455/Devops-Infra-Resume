@@ -26,7 +26,7 @@ Minha abordagem integra as melhores práticas de gestão de infraestrutura, util
 
 # 📚 **Demonstração de Conhecimento Avançado em TI**
 
-Como um profissional de infraestrutura de TI e DevOps, tenho me aprofundado em diversas tecnologias ao longo dos anos. Aqui estão alguns projetos significativos que exemplificam meu conhecimento e habilidades avançadas em Docker, PowerShell, automação e Linux.
+Como um profissional de infraestrutura de TI e DevOps, tenho me aprofundado em diversas tecnologias ao longo dos anos. Aqui estão alguns projetos significativos que exemplificavam meu conhecimento e habilidades avançadas em Docker, PowerShell, automação e Linux já em 2018....
 
 ## 🚀 **Evolução dos estudos e aprendizados ao longo do tempo**
 
