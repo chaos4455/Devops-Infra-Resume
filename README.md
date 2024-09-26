@@ -12,6 +12,21 @@
 🌐 **LinkedIn**: [linkedin.com/in/itilmgf](https://linkedin.com/in/itilmgf)  
 🐙 **GitHub**: [github.com/chaos4455](https://github.com/chaos4455)
 
+# 📄 **Currículo de Elias Andrade**
+
+Para uma visão detalhada das minhas qualificações e experiência como **Administrador de Redes e Infraestrutura | DevOps Specialist**, consulte meu currículo. Ele fornece uma visão abrangente das minhas habilidades, projetos, e experiências em ambientes de TI, focando em práticas de DevOps, automação e infraestrutura.
+
+## 📎 [Currículo em PDF](https://github.com/chaos4455/Devops-Infra-Resume/blob/main/Curr%C3%ADculo%20-%20Elias%20Andrade%20-%20Administrador%20de%20Redes%20e%20Infraestrutura%20-%20DevOps%20-%20Remoto%20v3.pdf)
+
+Este documento inclui:
+- Resumo das experiências profissionais
+- Habilidades técnicas em infraestrutura, Docker, Kubernetes, PowerShell, e mais
+- Projetos relevantes e suas implementações
+- Certificações e treinamentos
+
+Sinta-se à vontade para baixar e revisar o currículo para mais informações sobre meu perfil profissional!
+
+
 ---
 
 ## 🌟 **Objetivo Profissional**  
